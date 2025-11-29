@@ -26,7 +26,7 @@ While the initial analysis provided basic insights, this version implements **ad
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/ArmelKI/Netflix-Analysis-Refactored.git](https://github.com/ArmelKI/Netflix_data_analysis_V2.git)
+    git clone [https://github.com/ArmelKI/Netflix_data_analysis_V2.git](https://github.com/ArmelKI/Netflix_data_analysis_V2.git)
     ```
 2.  Install dependencies:
     ```bash
